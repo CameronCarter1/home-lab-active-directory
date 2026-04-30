@@ -33,7 +33,7 @@ Wrote a PowerShell script to bulk-create AD users across OUs automatically.
 See `scripts/create-users.ps1`
 
 ## Network Diagram
-![Network Diagram](screenshots/ADLabNetworkingDiagram.png)
+![Network Diagram](screenshots/ADLabNetworkDiagram.png)
 
 ## Screenshots
 
