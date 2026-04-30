@@ -50,7 +50,7 @@ See `scripts/create-users.ps1`
 ![ForceUpdating-GPO](screenshots/ForceUpdatingGPOsCompletion.png)
 
 ### Server Manager
-![Server Manager](screenshots/server-manager.png)
+![Server Manager](screenshots/ServerManager.png)
 
 ## What I Learned
 - How Active Directory structures users and resources in an enterprise network
